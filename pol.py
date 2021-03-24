@@ -1,2 +1,4 @@
-s=input()
-print('Hello world from ' + s)
+n=input("What is your name?")
+o=input("How old are you?")
+
+print('Hello world from ' + n + "." + "I am " + o + " old.")
